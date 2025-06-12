@@ -1,0 +1,48 @@
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyPetModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="dni" />
+    </Key>
+    <Property Name="dni" Type="char" MaxLength="8" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" />
+    <Property Name="Apellido" Type="varchar" MaxLength="50" />
+    <Property Name="Telefono" Type="char" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Empleado">
+    <Key>
+      <PropertyRef Name="usuario" />
+    </Key>
+    <Property Name="usuario" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="contraseña" Type="varchar" MaxLength="50" />
+    <Property Name="rol" Type="varchar" MaxLength="50" />
+    <Property Name="activo" Type="bit" />
+  </EntityType>
+  <EntityType Name="Local">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="codigoMascota" Type="int" />
+    <Property Name="local1" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Mascota">
+    <Key>
+      <PropertyRef Name="Codigo" />
+    </Key>
+    <Property Name="Codigo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" />
+    <Property Name="Tipo" Type="varchar" MaxLength="50" />
+    <Property Name="CodigoCliente" Type="char" MaxLength="8" />
+    <Property Name="Local" Type="varchar" MaxLength="50" />
+    <Property Name="FechaRegistro" Type="smalldatetime" />
+    <Property Name="FechaVacuna" Type="smalldatetime" />
+  </EntityType>
+  <EntityType Name="MascotaControl">
+    <Key>
+      <PropertyRef Name="numero" />
+    </Key>
+    <Property Name="tipo" Type="varchar" MaxLength="50" />
+    <Property Name="numero" Type="int" Nullable="false" />
+    <Property Name="codigo" Type="int" />
+  </EntityType>
+  <EntityType Name="Reserva">
+    <Key>
+      <PropertyRef Name="CodReserva" />
+    </Key>
+    <Property Name="Fecha" Type="date" />
+    <Property Name="Servicio" Type="varchar" MaxLength="50" />
+    <Property Name="Local" Type="varchar" MaxLength="50" />
+    <Property Name="Hora" Type="varchar" MaxLength="50" />
+    <Property Name="CodReserva" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodCliente" Type="char" MaxLength="8" />
+    <Property Name="Mascota" Type="varchar" MaxLength="50" />
+    <Property Name="CodMascota" Type="int" />
+    <Property Name="precio" Type="int" />
+    <Property Name="DiaSemana" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Vacuna">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Cantidad" Type="int" />
+    <Property Name="Fecha" Type="smalldatetime" />
+    <Property Name="Tipo" Type="varchar" MaxLength="50" />
+    <Property Name="CodMascota" Type="int" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="MyPetModelStoreContainer">
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Empleado" EntityType="Self.Empleado" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Local" EntityType="Self.Local" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Mascota" EntityType="Self.Mascota" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MascotaControl" EntityType="Self.MascotaControl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Reserva" EntityType="Self.Reserva" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Vacuna" EntityType="Self.Vacuna" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

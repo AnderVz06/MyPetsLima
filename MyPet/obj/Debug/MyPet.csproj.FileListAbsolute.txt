@@ -1,0 +1,42 @@
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\bin\Debug\MyPet.exe.config
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\bin\Debug\MyPet.exe
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\bin\Debug\MyPet.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.Form1.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.MensajeError.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.MensajeFlotante.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.Properties.Resources.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.exe
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.FrmMenuPrincipal.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.FrmRegistrarCliente.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.FrmRegistrarMascota.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.FrmControlVacuna.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.FrmVerVacunas.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.FrmReservar.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.FrmVacunar.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.FrmVerReserva.resources
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\MyPet\MyPet\obj\Debug\MyPet.FrmMenu.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.csproj.AssemblyReference.cache
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.exe
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.pdb
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\bin\Debug\MyPet.exe.config
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\bin\Debug\MyPet.exe
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\bin\Debug\MyPet.pdb
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.Form1.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.FrmControlVacuna.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.FrmMenu.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.FrmMenuPrincipal.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.FrmRegistrarCliente.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.FrmRegistrarMascota.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.FrmReservar.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.FrmVacunar.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.FrmVerReserva.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.FrmVerVacunas.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.MensajeError.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.MensajeFlotante.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.Properties.Resources.resources
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.csproj.GenerateResource.cache
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\MyPet\obj\Debug\MyPet.csproj.CoreCompileInputs.cache

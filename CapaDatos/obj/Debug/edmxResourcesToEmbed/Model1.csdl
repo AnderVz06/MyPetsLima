@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyPetModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Empleado">
+    <Key>
+      <PropertyRef Name="usuario" />
+    </Key>
+    <Property Name="usuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="contraseña" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="rol" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="activo" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="Mascota">
+    <Key>
+      <PropertyRef Name="Codigo" />
+    </Key>
+    <Property Name="Codigo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Tipo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CodigoCliente" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <Property Name="Local" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaRegistro" Type="DateTime" Precision="0" />
+    <Property Name="FechaVacuna" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="Vacuna">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Cantidad" Type="Int32" />
+    <Property Name="Fecha" Type="DateTime" Precision="0" />
+    <Property Name="Tipo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CodMascota" Type="Int32" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="MyPetEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Empleados" EntityType="Self.Empleado" />
+    <EntitySet Name="Mascotas" EntityType="Self.Mascota" />
+    <EntitySet Name="Vacunas" EntityType="Self.Vacuna" />
+    <EntitySet Name="Clientes" EntityType="MyPetModel.Cliente" />
+    <EntitySet Name="MascotaControl" EntityType="MyPetModel.MascotaControl" />
+    <EntitySet Name="Reservas" EntityType="MyPetModel.Reserva" />
+    <EntitySet Name="Local" EntityType="MyPetModel.Local" />
+  </EntityContainer>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="dni" />
+    </Key>
+    <Property Name="dni" Type="String" Nullable="false" MaxLength="8" FixedLength="true" Unicode="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="MascotaControl">
+    <Key>
+      <PropertyRef Name="numero" />
+    </Key>
+    <Property Name="tipo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="numero" Type="Int32" Nullable="false" />
+    <Property Name="codigo" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Reserva">
+    <Key>
+      <PropertyRef Name="CodReserva" />
+    </Key>
+    <Property Name="Fecha" Type="DateTime" Precision="0" />
+    <Property Name="Servicio" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Local" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Hora" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CodReserva" Type="Int32" Nullable="false" />
+    <Property Name="CodCliente" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <Property Name="Mascota" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CodMascota" Type="Int32" />
+    <Property Name="precio" Type="Int32" />
+    <Property Name="DiaSemana" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Local">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="codigoMascota" Type="Int32" />
+    <Property Name="local1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

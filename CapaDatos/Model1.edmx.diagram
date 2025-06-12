@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1aa7cf85ab8741628127b567d6c52c82" Name="Diagram1">
+        <EntityTypeShape EntityType="MyPetModel.Empleado" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyPetModel.Mascota" Width="1.5" PointX="4.625" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyPetModel.Vacuna" Width="1.5" PointX="6.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyPetModel.Cliente" Width="1.5" PointX="2.625" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyPetModel.MascotaControl" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="MyPetModel.Reserva" Width="1.5" PointX="3.375" PointY="3.75" />
+        <EntityTypeShape EntityType="MyPetModel.Local" Width="1.5" PointX="5.375" PointY="4.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

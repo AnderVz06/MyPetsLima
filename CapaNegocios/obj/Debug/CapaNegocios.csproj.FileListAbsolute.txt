@@ -1,0 +1,48 @@
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\bin\Debug\EntityFramework.dll
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\bin\Debug\CapaDatos.dll.config
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\bin\Debug\EntityFramework.xml
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\YENI\Desktop\Fundamentos de SI\MyPet\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\bin\Debug\CapaDatos.dll.config
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\MyPet\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaDatos.dll.config
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\user\OneDrive - Universidad Peruana de Ciencias\FUNDAMENTOS\TF\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\EntityFramework.dll
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\CapaDatos.dll.config
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\bin\Debug\EntityFramework.xml
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\ANDERSON\Downloads\MyPet\TrabjoFinal\MyPet\CapaNegocios\obj\Debug\CapaNegocios.pdb

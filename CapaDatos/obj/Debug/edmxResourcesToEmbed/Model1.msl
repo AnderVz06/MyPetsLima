@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyPetModelStoreContainer" CdmEntityContainer="MyPetEntities">
+    <EntitySetMapping Name="Empleados">
+      <EntityTypeMapping TypeName="MyPetModel.Empleado">
+        <MappingFragment StoreEntitySet="Empleado">
+          <ScalarProperty Name="usuario" ColumnName="usuario" />
+          <ScalarProperty Name="contraseña" ColumnName="contraseña" />
+          <ScalarProperty Name="rol" ColumnName="rol" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Mascotas">
+      <EntityTypeMapping TypeName="MyPetModel.Mascota">
+        <MappingFragment StoreEntitySet="Mascota">
+          <ScalarProperty Name="FechaVacuna" ColumnName="FechaVacuna" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+          <ScalarProperty Name="Local" ColumnName="Local" />
+          <ScalarProperty Name="CodigoCliente" ColumnName="CodigoCliente" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vacunas">
+      <EntityTypeMapping TypeName="MyPetModel.Vacuna">
+        <MappingFragment StoreEntitySet="Vacuna">
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="CodMascota" ColumnName="CodMascota" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clientes">
+      <EntityTypeMapping TypeName="MyPetModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MascotaControl">
+      <EntityTypeMapping TypeName="MyPetModel.MascotaControl">
+        <MappingFragment StoreEntitySet="MascotaControl">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reservas">
+      <EntityTypeMapping TypeName="MyPetModel.Reserva">
+        <MappingFragment StoreEntitySet="Reserva">
+          <ScalarProperty Name="DiaSemana" ColumnName="DiaSemana" />
+          <ScalarProperty Name="precio" ColumnName="precio" />
+          <ScalarProperty Name="CodMascota" ColumnName="CodMascota" />
+          <ScalarProperty Name="Mascota" ColumnName="Mascota" />
+          <ScalarProperty Name="CodCliente" ColumnName="CodCliente" />
+          <ScalarProperty Name="CodReserva" ColumnName="CodReserva" />
+          <ScalarProperty Name="Hora" ColumnName="Hora" />
+          <ScalarProperty Name="Local" ColumnName="Local" />
+          <ScalarProperty Name="Servicio" ColumnName="Servicio" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Local">
+      <EntityTypeMapping TypeName="MyPetModel.Local">
+        <MappingFragment StoreEntitySet="Local">
+          <ScalarProperty Name="local1" ColumnName="local1" />
+          <ScalarProperty Name="codigoMascota" ColumnName="codigoMascota" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
